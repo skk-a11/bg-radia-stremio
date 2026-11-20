@@ -1,0 +1,10 @@
+{
+  "name": "bg-radia-stremio",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Stremio addon with Bulgarian radio stations and LOLA TV",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "stremio-addon-sdk": "^1.6.10" }
+}
