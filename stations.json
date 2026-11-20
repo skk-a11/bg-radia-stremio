@@ -1,18 +1,98 @@
 [
- {"id":"bg-radio","name":"БГ Радио","group":"radio","url":""},
- {"id":"radio-1","name":"Радио 1","group":"radio","url":""},
- {"id":"radio-1-rock","name":"Радио 1 Рок","group":"radio","url":""},
- {"id":"veselina","name":"Радио Веселина","group":"radio","url":""},
- {"id":"veronika","name":"Радио Вероника","group":"radio","url":""},
- {"id":"energy","name":"Радио ENERGY","group":"radio","url":""},
- {"id":"city","name":"Радио City","group":"radio","url":""},
- {"id":"fresh","name":"Радио Fresh!","group":"radio","url":""},
- {"id":"njoy","name":"Радио N-JOY","group":"radio","url":""},
- {"id":"horizont","name":"БНР Хоризонт","group":"radio","url":""},
- {"id":"hristo-botev","name":"БНР Христо Ботев","group":"radio","url":""},
- {"id":"darik","name":"Дарик радио","group":"radio","url":""},
- {"id":"zrock","name":"Z-Rock","group":"radio","url":""},
- {"id":"the-voice","name":"The Voice","group":"radio","url":""},
- {"id":"lola","name":"Radio LOLA","group":"radio","url":"https://streaming.tdiradio.com/radiolola.mp3"},
- {"id":"lola-tv","name":"LOLA TV","group":"tv","url":"https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"}
+  {
+    "id": "bg-radio",
+    "name": "БГ Радио",
+    "group": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_RADIOAAC_H.aac?dist=WEBSITEBG"
+  },
+  {
+    "id": "radio-1",
+    "name": "Радио 1",
+    "group": "radio",
+    "url": "http://149.13.0.81/radio1128"
+  },
+  {
+    "id": "radio-1-rock",
+    "name": "Радио 1 Рок",
+    "group": "radio",
+    "url": "http://stream.metacast.eu/radio1rock.ogg"
+  },
+  {
+    "id": "veselina",
+    "name": "Радио Веселина",
+    "group": "radio",
+    "url": "https://bss1.neterra.tv/veselina/veselina.m3u8"
+  },
+  {
+    "id": "veronika",
+    "name": "Радио Вероника",
+    "group": "radio",
+    "url": "https://play.global.audio/veronika64"
+  },
+  {
+    "id": "energy",
+    "name": "Радио ENERGY",
+    "group": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ENERGYAAC_H.aac?dist=WEBSITEBG"
+  },
+  {
+    "id": "city",
+    "name": "Радио City",
+    "group": "radio",
+    "url": "https://play.global.audio/city.opus"
+  },
+  {
+    "id": "fresh",
+    "name": "Радио Fresh!",
+    "group": "radio",
+    "url": "http://193.108.24.21:8000/fresh"
+  },
+  {
+    "id": "njoy",
+    "name": "Радио N-JOY",
+    "group": "radio",
+    "url": "https://web.static.btv.bg/radio/njoy-radio-proxy/index.php"
+  },
+  {
+    "id": "horizont",
+    "name": "БНР Хоризонт",
+    "group": "radio",
+    "url": "https://play.global.audio/testb.aac?dist=RADIOPLAY"
+  },
+  {
+    "id": "hristo-botev",
+    "name": "БНР Христо Ботев",
+    "group": "radio",
+    "url": "http://stream.bnr.bg:8003/botev.mp3"
+  },
+  {
+    "id": "darik",
+    "name": "Дарик радио",
+    "group": "radio",
+    "url": "http://darikradio.by.host.bg:8000/S2-128"
+  },
+  {
+    "id": "zrock",
+    "name": "Z-Rock",
+    "group": "radio",
+    "url": "http://193.108.24.6:8000/zrock"
+  },
+  {
+    "id": "the-voice",
+    "name": "The Voice",
+    "group": "radio",
+    "url": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8"
+  },
+  {
+    "id": "lola",
+    "name": "Radio LOLA",
+    "group": "radio",
+    "url": "https://streaming.tdiradio.com/radiolola.mp3"
+  },
+  {
+    "id": "lola-tv",
+    "name": "LOLA TV",
+    "group": "tv",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"
+  }
 ]
