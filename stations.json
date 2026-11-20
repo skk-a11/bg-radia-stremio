@@ -16,7 +16,7 @@
  {"id":"lola","name":"Radio LOLA","group":"radio","url":"https://streaming.tdiradio.com/radiolola.mp3"},
  {"id":"lola-tv","name":"LOLA TV","group":"tv","url":"https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"},
  {"id":"radio-bella","name":"Radio Bella","group":"radio","url":"https://online.radiobella.com/listen/radio.bella/radio.mp3"},
- {"id":"radio-bn","name":"Radio BN","group":"radio","url":"http://stream.rtvbn.com:8522/;*.mp3"},
+ {"id":"radio-bn","name":"Radio BN","group":"radio","url":"https://stream.radiobn.net/;stream.mp3"},
  {"id":"radio-carsija","name":"Radio Čaršija","group":"radio","url":"https://cast2.name.ba/proxy/nedim/;*.mp3"},
  {"id":"radio-jugomanija","name":"Radio Jugomanija","group":"radio","url":"https://s8.yesstreaming.net:17051/autodj"},
  {"id":"radio-juzni-vetar","name":"Radio Južni Vetar","group":"radio","url":"https://node-03.zeno.fm/ws8xprc44d0uv"},
